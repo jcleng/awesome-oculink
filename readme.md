@@ -5,7 +5,7 @@
 更低的损耗,更高的带宽,更低的延迟。
 不支持热插拔。
 
-已只可以扩展oculink接口的笔记本:
+已知可以扩展oculink接口的笔记本:
 thinkbook 14+/thinkbook 16+ 需要拆d壳,安装nvme转接小板
 GPD win max2 需要改d壳
 GPD win max2 2023 自带接口,搭配 GPD G1
