@@ -22,6 +22,9 @@ GPD win max2 2023 自带接口,搭配 GPD G1
 | thinkbook14+ 2022款 | i5-12500h | 迪兰恒进 RX580 4G | 诺方恒科 套件(非焊线) | ❌ | 能开机上电关机断电,但是设备管理器看不见设备 | [详情, 同001](./001_thinkbook14+/readme.md) |
 | thinkbook14+ 2022款 | i5-12500h | 讯景XFXRX 6750XT 12GB 海外版 OC | 诺方恒科焊线版本 | ❌ | 能开机上电关机断电,但是设备管理器看不见设备 | [详情](./002_thinkbook14+/readme.md) |
 | thinkbook14+ 2022款 | i5-12500h | 迪兰恒进 RX580 4G | 诺方恒科焊线版本 | ❌ | 能开机上电关机断电,但是设备管理器看不见设备 | [详情, 同002](./002_thinkbook14+/readme.md) |
+| thinkbook14+ 2022款 | i5-12500h | 讯景XFXRX 6750XT 12GB 海外版 OC | 开源宇宙飞线版本 | √ | 能开机上电关机断电,一次成功 | [详情](./003_thinkbook14+/readme.md) |
+
+
 # 其他资料和配件
 
 - [壹刻坞](https://www.1-dock.com/) 雷电/OCulink双接口显卡坞
